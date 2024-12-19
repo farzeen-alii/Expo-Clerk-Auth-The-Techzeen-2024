@@ -80,7 +80,7 @@ export default function Page() {
           <View className="flex-row justify-center mt-6">
             <Text className="text-gray-700">Don't have an Account?</Text>
             <TouchableOpacity onPress={() => router.push('/sign-up')}>
-                <Text className="text-teal-600 font-semibold ml-1">Sign up</Text>
+                <Text className="text-teal-600 font-semibold ml-1">login</Text>
             </TouchableOpacity>
           </View>
           <View className="flex-row justify-center mt-6">
